@@ -1,0 +1,36 @@
+html 
+{ 
+  background: url(Psych_Space.jpgfile) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Lobster', 'cursive';
+}
+
+h1
+{
+	text-align: center;
+	font-size: 50px;
+	color: red;
+	padding: 10px;
+	background-color: rgba(0,0,255,0.5);
+}
+
+#canvas
+{
+	padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+p
+{
+	text-align: left;
+	font-size: 26px;
+	color: red;
+	display: inline-block;
+	padding: 10px;
+	background-color: rgba(0,0,255,0.5);
