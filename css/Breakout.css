@@ -1,6 +1,6 @@
 html 
 { 
-  background: url(Psych_Space.jpgfile) no-repeat center center fixed; 
+  background: url(Psych_Space.jpgfi) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -33,4 +33,5 @@ p
 	color: red;
 	display: inline-block;
 	padding: 10px;
-	background-color: rgba(0,0,255,0.5);
+	background-color: rgba(0,0,255,0.5);
+}
